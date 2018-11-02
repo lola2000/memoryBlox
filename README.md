@@ -1,2 +1,0 @@
-# memoryBlox
-Created with CodeSandbox
